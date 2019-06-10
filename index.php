@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <link href="css/estilo.css" type="text/css" media="all" rel="stylesheet">
         <link href="css/print.css" type="text/css" media="print" rel="stylesheet">
-        <title>Página inicial</title>
+        <title>Projeto Exemplo MVC - Página inicial</title>
         <script>
             var dadosCliente = <?php echo $data ?>;
         </script>
